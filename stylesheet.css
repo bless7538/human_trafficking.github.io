@@ -1,0 +1,56 @@
+h1 {
+text-align: center;
+}
+
+body{
+background-color: white;
+color:black;
+
+}
+p {
+font-size: 20px;
+text-align: center;
+}
+.grey {
+background: lightgrey;
+width: 100%;
+height: 350px;
+}
+li {
+color: red;
+font-size: 20px;
+font-style: italic;
+list-style-type: none;
+font-weight: bold;
+}
+.Seconds {
+background:black;
+width:100%;
+height: 40px;
+}
+#Number {
+color: black;
+list-style-type: decimal;
+font-weight: normal;
+}
+.space {
+background: black;
+width: 100%;
+height: 35px;
+}
+.dark {
+background: black;
+width: 100%;
+height: 90px;
+}
+.bullet > li{
+list-style-type: square;
+color:black;
+font-size: 17px;
+}
+
+.image {
+display: flex;
+align-items: center;
+justify-content: center;
+}
